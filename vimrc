@@ -111,7 +111,8 @@ Bundle 'junegunn/vim-easy-align'
 Bundle 'othree/html5.vim'
 Bundle 'rodjek/vim-puppet'
 Bundle 'mileszs/ack.vim'
-Bundle "ekalinin/Dockerfile.vim"
+Bundle 'ekalinin/Dockerfile.vim'
+Bundle 'Valloric/MatchTagAlways'
 
 " ...
 
